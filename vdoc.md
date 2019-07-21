@@ -1,5 +1,5 @@
 # [V Programming language](https://vlang.io/docs)
-#### (Unofficial Docs & Tutorials by [Fabreath](https://gitlab.com/fabreath))
+##### (Unofficial Docs & Tutorials by [Fabreath](https://gitlab.com/fabreath))
 
 ### Documentation
 * [Strings](./doc/strings.md)
